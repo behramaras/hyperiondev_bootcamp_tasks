@@ -1,0 +1,13 @@
+The total number of users: 1
+
+The total number of tasks: 2
+
+The total number of tasks assigned to you: 2
+
+The percentage of the total number of tasks that have been assigned to you: %100.0
+
+The percentage of the tasks assigned to you that have been completed: %0.0
+
+The percentage of the tasks assigned to you that still be completed: %100.0
+
+The percentage of the tasks assigned to you that have not yet been completed and are overdue: %100.0

@@ -1,0 +1,9 @@
+0, admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+1, admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+2, behram, Kutuyu aç, Bulduğun bütün kutuları açacaksın, 3 jun 2023, 07 January 2023, No
+3, behram, Kelle uçurmak, Asmak kesmek kelle uçurmak, 4 ocak 2022, 12 January 2023, No
+4, meltem, Özlem, Eve gelmen gerek, 12 ocak, 12 January 2023, No
+5, behram, Asdsa, Sdfsa, 3 aralık, 12 January 2023, No
+6, meltem, Gdsf, Hgfgfd, 5 kasım, 12 January 2023, No
+7, admin, Askdf, Sfgdfdf, 3 şubat, 12 January 2023, No
+8, admin, Jhkdsf, Dklgfj, 7 ocak, 12 January 2023, No

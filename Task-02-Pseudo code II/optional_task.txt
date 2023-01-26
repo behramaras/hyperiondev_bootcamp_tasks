@@ -1,0 +1,17 @@
+set A equal to 1
+
+set B equal to 1
+
+set a list that the first two variables A and B
+
+request input a number
+
+store input into variable called "n"
+
+Until the n times 
+
+	set A equal to B and B equal to sum of A and B
+	
+	add A and B to the list
+
+print out the list

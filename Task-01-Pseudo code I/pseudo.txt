@@ -1,0 +1,74 @@
+----  Task 1  ----
+START
+
+create a number list
+
+while the number is equal to 0
+	
+	request a positive number from the user
+
+	if the number is not equal to 0
+		
+		add the number to list
+	
+	else 
+		
+		print max number in list	
+END
+
+----  Task 2  ----
+START
+
+set counter equal to 0
+
+set total to 0
+
+while True
+
+	request a number from the user
+
+	increase the total by the number
+
+	increase the counter by 1
+
+	print the total divided by counter
+
+END
+
+
+----  Task 3  ----
+START
+
+set a new empty list 
+
+get grocery list
+
+read user input for grocery list
+
+if the product bought
+	don't put the product to new list
+
+else 
+	put the product to new list
+
+sort the new list in alphabetical order
+
+print the new list
+
+END
+
+----  Task 4  ----
+
+START
+
+get X and Y 
+
+set S equal to sum of X and Y
+set A equal to S division by 2
+set P equal to X times Y
+
+print S,A,P
+
+
+STOP
+

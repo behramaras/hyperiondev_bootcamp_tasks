@@ -1,0 +1,21 @@
+START
+
+create a number list 
+
+get number 1
+add the number to list
+
+get number 2
+add the number to list
+
+get number 3
+add the number to list
+
+get number 4
+add the number to list
+
+sort the number list's elements from smallest to largest
+
+print the sorted list
+
+END

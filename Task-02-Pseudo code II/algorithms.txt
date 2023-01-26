@@ -1,0 +1,28 @@
+--- TASK 1 ---
+
+request input their name from the user 
+
+store input into variable called "first_name"
+
+print out “Hello, World” and "first_name"
+
+
+--- TASK 2 ---
+
+
+request input their age from the user 
+
+store input into variable called "age"
+
+if the age is over or equal to 18
+
+	print out “You’re old enough"
+
+if the age is equal to or over 16, but less than 18
+
+	print out “Almost there”
+
+if the age is less than 16
+	
+	print out “You’re just too young”
+
