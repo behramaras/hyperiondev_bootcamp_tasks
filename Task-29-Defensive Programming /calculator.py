@@ -91,9 +91,10 @@ Enter 1 or 2 or 0 to quit: """)
 
                 first_file.close()
                 second_file.close()
+                break
 
             except FileNotFoundError:
-                print("Invalid file name entered!")
-
+                print("There is no value to print out or invalid file name!")
+                break
     else:
         print("Invalid option. Please choose 1 or 2!")
